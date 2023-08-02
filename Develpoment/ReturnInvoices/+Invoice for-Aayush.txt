@@ -1,0 +1,11 @@
+
+=====================================================
+            *Invoice for Costumes returned*
+=====================================================
+Customer Name: Aayush
+Customer Phone: 9796
+Costumes Rented: Angel Costume,
+Total Fine: 5.4
+Total Price with fine: 41.4
+Date and time of Return: 2022-09-11 11:17:36.193846
+==============================x=========================

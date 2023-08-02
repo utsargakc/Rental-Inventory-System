@@ -1,0 +1,11 @@
+
+=====================================================
+            *Invoice for Costumes returned*
+=====================================================
+Customer Name: daf
+Customer Phone: 1212
+Costumes Rented: Black Panther,
+Total Fine: 15.120000000000001
+Total Price with fine: 99.12
+Date and time of Return: 2022-08-25 17:33:12.305255
+==============================x=========================

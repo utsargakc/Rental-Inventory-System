@@ -1,0 +1,11 @@
+Cop Costume,MaxWalters,$15,23
+Thief Costume,MaxWalters,$12,28
+Formal Suit,SegaSmart,$14.5,24
+Angel Costume,Funkywears,$18,26
+Black Panther,Cozplayy,$28,26
+Ghillie Suit,Tommmers,$19.5,24
+Prince Dress,Funkywears,$29,31
+Princess Robe,Funkywears,$35,36
+Thor Costume,Cozplayy,$45,32
+Captain Price,MaxWalters,$18,31
+Vampire Dress,Cozplayy,$25,42

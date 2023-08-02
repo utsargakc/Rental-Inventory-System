@@ -1,0 +1,11 @@
+
+=====================================================
+            *Invoice for Costumes returned*
+=====================================================
+Customer Name: sfdfsd
+Customer Phone: 34232
+Costumes Rented: Black Panther,Angel Costume,
+Total Fine: 53.81999999999999
+Total Price with fine: 99.82
+Date and time of Return: 2022-08-26 15:49:40.092818
+==============================x=========================

@@ -1,0 +1,10 @@
+
+=====================================================
+            *Invoice  for Rented Costumes*
+=====================================================
+Customer Name: Utsarga
+Customer Phone: 9879687
+Costumes Rented: Cop Costume,Angel Costume,
+Total Price: 216.0
+Date and time of Rent: 2022-09-11 11:16:02.388093
+==============================x=========================

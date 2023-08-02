@@ -1,0 +1,10 @@
+
+=====================================================
+            *Invoice  for Rented Costumes*
+=====================================================
+Customer Name: Sanam
+Customer Phone: 9863122445
+Costumes Rented: Thief Costume,Formal Suit,
+Total Price: 65.0
+Date and time of Rent: 2022-08-25 17:55:17.370104
+==============================x=========================

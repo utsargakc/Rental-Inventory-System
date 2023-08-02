@@ -1,0 +1,11 @@
+
+=====================================================
+            *Invoice for Costumes returned*
+=====================================================
+Customer Name: dad
+Customer Phone: 4424
+Costumes Rented: Princess Robe,
+Total Fine: 36.75
+Total Price with fine: 211.75
+Date and time of Return: 2022-08-26 00:45:48.152928
+==============================x=========================
